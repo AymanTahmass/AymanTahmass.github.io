@@ -1,3 +1,3 @@
 # AymanTahmass.github.io
 ### Welcome to my page!
-[Open it here :))](AymanTahmass.github.io)
+Feel free to visit it! (Simply click the link on the right side of the repository)
